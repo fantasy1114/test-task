@@ -1,0 +1,9 @@
+Write a simple REST application from the scratch:
+- CRUD for username/password authentication of the single admin
+- CRUD for user management
+- pure Express
+- ES2020+ is required
+- MongoDB (preferred) or SQL
+- MVC/DDD/Hexagonal structure including dependency injection
+
+- docker-compose for local development and production (preferred)
