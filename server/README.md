@@ -12,3 +12,9 @@ npm install
 ```
 npm start
 ```
+
+# 3 running port
+
+```
+http://localhost:5000
+```
